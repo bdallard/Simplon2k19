@@ -56,8 +56,6 @@ git branch -d feature_x
 **Attention une branche n'est pas disponible pour les autres tant que vous ne l'aurez pas envoyée vers votre dépôt distant**
 
 ### Git Kesako
-Voir la [séance 2-A](https://github.com/bdallard/PartTime2k19/tree/master/S2/S2-A).
-
 Pour ceux qui n'arrivent pas à pull parce qu'ils ont fait des modif dans le repo, lancer la commande : 
 ```
 git stash
